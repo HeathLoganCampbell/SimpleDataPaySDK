@@ -20,3 +20,5 @@ async function example()
 ## useful learnings 
 
 Country => Company => PayGroup => PayRun => Employee / PayPacket
+
+read more at https://developers.datacomdirectaccess.com.au/api/documentation
