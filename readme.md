@@ -1,6 +1,6 @@
 # `Simple DataPay API SDK`
 
-## Eample of usage
+## Example of usage
 
 ```typescript
 async function example()
